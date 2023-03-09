@@ -1,0 +1,8 @@
+libmy.a
+105torus
+a.out
+vgcore*
+*.o
+*~
+*#
+#*
